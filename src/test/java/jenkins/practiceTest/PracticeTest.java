@@ -1,4 +1,4 @@
-package jenkins.practice;
+package jenkins.practiceTest;
 
 import org.testng.Reporter;
 import org.testng.annotations.AfterSuite;

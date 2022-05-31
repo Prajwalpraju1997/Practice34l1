@@ -1,4 +1,4 @@
-package jenkins.practice;
+package jenkins.practiceTest;
 
 import org.testng.Reporter;
 import org.testng.annotations.Test;
@@ -15,5 +15,10 @@ public class JenkinsTest {
 	public void practiceTest2() {
 		Reporter.log("pass1", true);
 }
+	
+	
+	
 }
+
+
 
